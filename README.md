@@ -2,7 +2,6 @@
 <p align="left">
   <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" />
-  <img src="https://cdn.simpleicons.org/php/#777BB4" width="40" />
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="40" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" width="40" />
 </p>
