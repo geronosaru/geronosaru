@@ -24,6 +24,6 @@
 
 【Feature :sparkles:】 <br>
 ・応用情報技術者 <br>
-・Oracle Master bronze DBA <br>](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+・Oracle Master bronze DBA <br>
 ・AWS Certified Cloud Practitioner <br>
 ・TOEIC 750点以上 <br>
