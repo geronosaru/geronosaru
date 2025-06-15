@@ -25,3 +25,19 @@
 ・AWS Certified Cloud Practitioner <br>
 
 ## :package: repositories <br>
+| repository | status | description | link |
+| --- | --- | --- | ---|
+| geronosaru | public | プロフィール用| https://github.com/geronosaru/geronosaru  |
+| Moneger | public | 自作アプリまるっとMonegerのリポジトリ | https://github.com/geronosaru/Moneger  |
+| myReview | private | 自作アプリmyReviewのリポジトリ| |
+| step1 | private | docker練習用||
+| catch-me | private | 自作アプリcatch-meのリポジトリ||
+| sample-app | private |練習用||
+| WithStu-app | private |自作アプリWithStu-app のリポジトリ||
+| react-laravel | private |練習用||
+| 20241208-laravel-react-version2 | private |練習用||
+| 20241208-laravel-react | private |練習用||
+| laravel-react-nginx-docker-20241201 | private |練習用||
+| laravel-react-nginx-docker-20241130 | private |練習用||
+| docker-simple-cicd-demo | private |練習用||
+| laravel_quiz | private |練習用||
